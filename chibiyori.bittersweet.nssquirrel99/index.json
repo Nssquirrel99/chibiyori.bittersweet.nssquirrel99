@@ -21,7 +21,19 @@
     "heads": {
         "default": [
             "./h1.png",
-            "./h2.png"
+            "./h2.png",
+            "./h3.png",
+            "./h4.png",
+            "./h5.png",
+            "./h6.png",
+            "./h7.png",
+            "./h8.png",
+            "./h9.png",
+            "./h10.png",
+            "./h11.png",
+            "./h12.png",
+            "./h13.png",
+            "./h14.png"
         ]
     },
     "poses": [
